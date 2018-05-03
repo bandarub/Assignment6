@@ -243,6 +243,7 @@ font-size:26px;
     font-size:1.5vw;
 }
 .client-says-container .grid-row1 h2{
+    margin-top:0;
     margin-bottom:0;
 }
 .client-says-container .grid-row1 p{
