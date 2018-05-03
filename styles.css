@@ -232,7 +232,7 @@ font-size:26px;
 }
 .client-says-container .grid-row1 .left{
     font-size: 1.5vw;
-    align-self: center;
+    align-self: start;
 }
 .client-says-container .grid-row1 div:first-child{
     text-align:right;
